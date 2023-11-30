@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.fstsheet{
+    height: 86px;
+    width: 100%;
+    font-size: 14px;
+    /* background-color: yellow; */
+
+}
+.fstprt img{
+height: 82px;
+width: 150px;
+margin-left: 120px;
+}
+.fstprt{
+    height: 86px;
+    width: 50%;
+    /* background-color: aquamarine; */
+}
+.scndprt{
+    height: 86px;
+    width: 50%;
+    /* background-color: rgb(255, 153, 0); */
+    display: flex;
+    /* justify-content: space-evenly; */
+}
+.navbar{
+    display: flex;
+}
+.scndprt a{
+    height: 40px;
+    width: 90px;
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+    margin-left: 35px;
+    margin-top: 36px;
+   
+}
+.scndsheet{
+    height:805px;
+    width: 100%;
+}
+.scndsheet img{
+    height: 800px;
+    width: 1265px;
+}
+.thrdsheet{
+    height: 1000px;
+    width: 1265px;
+    background-color: rgb(236, 234, 234);
+}
+.thrdsheet h3{
+    height: 70px;
+    width: 400px;
+    font-size: 25px;
+    background-color:rgb(31, 31, 196);
+    padding-left: 35px;
+    padding-top: 20px;
+    color: white;
+}
+.headng{
+    margin-left: 440px;
+}
+.imgsheet{
+    height: 380px;
+    width: 1265px;
+    
+}
+.imgsheetbase{
+    display: flex;
+    height: 350px;
+    width: 1140px;
+    margin-top: 20px;
+    margin-left: 70px;
+    justify-content: space-evenly;
+}
+.card1 img{
+height: 280px;
+width: 320px;
+}
+.card2 h4{
+    height: 62px;
+    width: 350px;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-top: 20px;
+    margin-top: 10px;
+    background-color: rgb(3, 3, 95);
+    color: white;
+}
+.img1{
+    background-color: bisque;
+}
+.img2{
+    background-color: bisque;
+}
+.img3{
+    background-color: bisque;
+}
+
+.imgsheet{
+    height: 380px;
+    width: 1265px;
+    /* background-color: bisque; */
+    
+}
+.imgsheetbase1{
+    display: flex;
+    height: 340px;
+    width: 1140px;
+    margin-left: 70px;
+    justify-content: space-evenly;
+}
+.card1 img{
+height: 280px;
+width: 320px;
+}
+.card2 h4{
+    height: 62px;
+    width: 350px;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-top: 20px;
+    margin-top: 10px;
+    background-color: rgb(3, 3, 95);
+    color: white;
+}
+.img1{
+    background-color: bisque;
+}
+.img2{
+    background-color: bisque;
+}
+.img3{
+    background-color: bisque;
+}
+.btn{
+    background-color:rgb(4, 4, 101);
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    height: 46px;
+    width: 163px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+    margin-left: 560px;
+}
+.btn img{
+    height: 30px;
+    width: 30px;
+    color: white;
+}
+.imgtg img{
+height: 435px;
+width: 1265px;
+position: absolute;
+z-index: -1;
+}
+.cndent1{
+    height: 420px;
+    width: 700px ;
+    margin-left: 120px;
+    /* margin-top: 90px; */
+    padding-top: 90px;
+}
+.imgtg{
+    position: relative;
+}
+.cndent2 img{
+    height: 400px;
+    width: 400px;
+    padding-right: 60px;
+}
+.cndenttg{
+    display: flex;
+}
+.btn1 img{
+    height: 40px;
+    width: 40px;
+    z-index: 2;
+    padding-bottom: 22px;
+    padding-left: 15px;
+}
+.btn1{
+    height: 46px;
+    width: 170px;
+    background-color:rgb(4, 4, 101);
+    /* align-items: center; */
+    margin-bottom: 10px;
+    color: white;
+    border-radius: 8px;
+    padding-right: 15px;
+    margin-right: 10px;
+}
+.cndent1 h4{
+    height: 26px;
+    width: 700px;
+    font-size: 23px;
+
+}
+.cndent1 h3{
+    height: 33px;
+    width: 700px;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.cndent1 p{
+    height:98px ;
+    width: 600px;
+    font-size: 19px;
+    margin-top: 20px;
+}
+.fstftr{
+    display: flex;
+    height: 50px;
+    width: 50px;
+}
+.finalsheet{
+    height: 250px;
+    width: 1265px;
+    display: flex;
+    justify-content: center;
+}
+.mainftr{
+    width: 800px;
+    height: 100px;
+    /* background-color: blueviolet; */
+    display: flex;
+   padding-left: 250px;
+   padding-top: 60px;
+}
+.scndftr{
+    height: 30px;
+    width: 600px;
+    font-size: 16px;
+    margin-top: 60px;
+}
+.fstftr img{
+    margin-left: 25px;
+}
